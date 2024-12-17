@@ -8,7 +8,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 import asyncio
 import logging
-from config import BOT_TOKEN
+
 
 BOT_TOKEN = '7908948704:AAHygKjTMkKHN_KqkrC9lfxwWLW_mVAkWLM'
 
